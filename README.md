@@ -1,3 +1,5 @@
+[![HitCount](https://komarev.com/ghpvc/?username=sohanverma12&label=Profile%20views&color=60dae2&style=flat)](https://github.com/sohanverma12)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data Scientist
