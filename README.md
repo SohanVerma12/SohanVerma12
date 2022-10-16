@@ -26,5 +26,4 @@
   
 </div>
  -->
-
-https://leetcard.sohansinghv55.cool/lapor?ext=heatmap
+![Leetcode Stats](https://leetcard.sohansinghv55.cool/sohansinghv55)
