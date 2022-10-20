@@ -10,10 +10,17 @@
 - 📫 How to reach me: [LinkedIn -> Sohan12](https://www.linkedin.com/in/sohan12/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Lazy
-
+<!-- 
  <div>
 <img height="165" align="left" src = 'https://github-readme-stats.vercel.app/api?username=sohanverma12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanverma12&layout=compact&show_icons=true&theme=vue" />
-</div>
+</div> -->
+
+<p align="center">
+<a href="https://github.com/Rajan-226">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sohanverma12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sohanverma12&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 
