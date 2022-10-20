@@ -18,7 +18,7 @@
 </div> -->
 
 <p align="center">
-<a href="https://github.com/Rajan-226">
+<a href="https://github.com/sohanverma12">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sohanverma12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sohanverma12&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
